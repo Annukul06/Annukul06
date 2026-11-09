@@ -25,3 +25,10 @@ About Me
 
 
 🧠 Enjoy solving mathematical and algorithmic problems
+
+
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/Annukul06/Annukul06/output/tulkun/tulkun.gif" width="640" alt="My GitHub Tulkun" />
+  </a>
+</p>
